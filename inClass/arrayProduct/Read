@@ -1,0 +1,10 @@
+1. Thiết kế HTML 
+    - Tạo div của MEN & WOMAN 
+2. Tạo file js 
+    - Tạo Data man và woman
+    - viết Function 
+    - Trả kết quả về 
+* Dùng push để thêm phần tử vào 
+- mảng.push()
+* Localstorage 
+localstorage.setItem

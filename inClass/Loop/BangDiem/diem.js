@@ -25,6 +25,8 @@ function myFunction() {
     }
   }
 
+  document.getElementById('result').value=k;
+
   if (k >= 8) {
     document.getElementById("result").value = k;
     document.getElementById("demo").innerHTML = "Hoc sinh gioi";

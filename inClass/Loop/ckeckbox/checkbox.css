@@ -1,0 +1,47 @@
+.frm{
+    width: 80%;
+    background-color: rgb(95, 100, 86);
+
+}
+h2{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+
+}
+.checkbox{
+    text-align: center;
+}
+
+label{
+    
+    margin: 10px;
+    color: white;
+    font-size: 25px;
+    
+}
+.discount-radio{
+    margin-left: 450px;
+}
+input{
+    font-size: 20px;
+}
+button{
+    font-size: 40px;
+    height: 50px;
+    font-size: 20px;
+    background-color: yellow;
+    margin-left: 800px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 24px;
+    margin-left: 300px;
+    color: white;
+}
+#but{
+    font-size: 24px;
+    margin-left: 300px;
+    color:white;
+    background-color: black;
+}
